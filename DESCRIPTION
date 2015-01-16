@@ -1,0 +1,9 @@
+Package: neftali.barrero
+Type: Package
+Title: Cuadrado_Cubo
+Version: 1.0
+Date: 2015-01-15
+Author: NEFTALI BARRERO PARRA - Ing Informático
+Maintainer: NEftali Barrero <neftalibp@gmail.com>
+Description: Calcula el cuadrado o el cubo de un numero
+License: NO
